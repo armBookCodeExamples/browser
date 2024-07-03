@@ -37,7 +37,7 @@ La próxima vez que ingresemos, si la placa está conectada, la vamos a ver en e
 ## Google Chrome
 
 Lo vamos a instalar desde [la página de instalación de Google](https://chrome.google.com/).
-Vamos a resistir la tentación de usar Chromium, de usar un _snap_, un _appimage_, un container Docker, y cualquier otra forma que se nos pueda ocurrir de optimizar el espacio en disco y demostrar nuestro dominio del sistema. Nada te impide hacerlo, pero si no te funciona, sólo podremos repetirte este párrafo hasta que lo entiendas.
+Recomendamos no usar Chromium, un _snap_, un _appimage_, un container Docker, o cualquier otra forma de optimizar el espacio en disco, porque en ese caso no podremos dar soporte.
 
 ### Linux
 
